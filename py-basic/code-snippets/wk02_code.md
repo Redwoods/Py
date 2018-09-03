@@ -1,3 +1,5 @@
+## Burning fat by jogging
+
 ### 조깅에서 1kg 지방을 태우는 데 몇 시간 걸리는지를 계산
 
 cal_per_1kg_fat = 7200       # 지방 1kg 연소에 필요한 열량
