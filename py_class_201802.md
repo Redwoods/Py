@@ -14,7 +14,7 @@ Python class for HCit, 2018, 2nd semester.
 - [py12/상은](https://github.com/sangeunlim/py-12)
 - [py13/유현](https://github.com/9Y7H/py-13)
 - [py14/재은](https://github.com/jjammmm/py-14)
-- [py15/하영]()
+- [py15/하영](https://github.com/joohayoung/py-15)
 - [py16/민영](https://github.com/minyeongChoi/py-16)
 - [py17/준영](https://github.com/Seolyeong/py17)
 
