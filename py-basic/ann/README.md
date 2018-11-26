@@ -10,6 +10,7 @@
 ***
 
 [original link:Intro to DL](https://github.com/alfredessa/lasi2018/tree/master/notebooks/slideversion/deeplearning) 
-[Alfred Essa](https://github.com/alfredessa)
+
+[by Alfred Essa](https://github.com/alfredessa)
 
 - [Wiki](https://github.com/alfredessa/lasi2018/wiki/LASI2018-Python-Tutorial)
