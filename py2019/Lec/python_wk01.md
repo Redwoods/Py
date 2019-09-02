@@ -1,14 +1,14 @@
-# 파이썬활용
+# 파이썬활용: wk01
 
 ---
 ## 수업 안내
 
-## 파이썬 코딩 환경 소개
+### 파이썬 코딩 환경 소개
 1. python console
 2. IDLE (파이썬 코드 편집기 및 개발 환경)
 3. vscode
 
-## 웹기반 파이썬 코딩
+### 웹기반 파이썬 코딩
 1. Jupyter notebook
 2. Google Colab
 
