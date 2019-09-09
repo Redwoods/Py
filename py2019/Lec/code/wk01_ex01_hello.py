@@ -14,7 +14,7 @@ x+y
 # function
 def add(a,b):
     return a+b
-    
+
 #
 add(1,2)
 add(a,b)
@@ -22,3 +22,7 @@ add(a,b)
 add(x,y)
 #################
 
+"""
+Author: redwoods
+파이썬 코드: wk01_01_hello.py
+"""
