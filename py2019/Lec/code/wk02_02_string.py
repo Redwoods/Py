@@ -42,7 +42,8 @@ a * 2
 #####################################
 # multistring.py
 print("=" * 50)
-print("My Program")
+print("I am now coding Python!")
+print("=" * 50)
 #####################################
 
 # 내장함수: len()
