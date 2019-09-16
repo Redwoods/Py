@@ -17,7 +17,7 @@
 ---
 3. 리스트 (list)
    - 리스트의 정의
-   - 리스트의 인덱싱과 슬라이싱
+   - 리스트의 인덱싱과 슬라이싱 [the-basics-of-indexing-and-slicing-python-lists](https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists-2d12c90a94cf)
    - 리스트 연산
    - 리스트 관련 함수
 4. 튜플 (tuple)
