@@ -65,6 +65,8 @@ s1
 s1 = set([1, 2, 3])
 s1.update([4,5,6])
 s1
+s1.add(5)
+s1
 #
 # 특정 값 제거하기(remove)
 #
@@ -72,48 +74,16 @@ s1 = set([1, 2, 3])
 s1.remove(2)
 s1
 #################################################
-# 기본적인 반복(iterate) 구문(예: for문)을 실행
+# frozenset()  # immutable set
 #################################################
-for k in a.keys():
-    print(k)
-#
-#
-# Value 리스트 만들기(values)
-#
-a.values()
-#
-# Key, Value 쌍 얻기(items)
-#
-a.items()  # Key와 Value의 쌍을 튜플로 묶은 값을 dict_items 객체로 돌려준다.
-#
-#
-# Key: Value 쌍 모두 지우기(clear)
-#
-a.clear()
-a
-#
-# Key로 Value얻기(get)
-#
-a = {'name': 'pey', 'phone': '0119993323', 'birth': '1118'}
-a.get('name')    # a['name']
-a.get('phone')   # a['phone']
+small_primes = frozenset([2, 3, 5, 7])
+bigger_primes = frozenset([5, 7, 11])
+small_primes.add(11)  # we cannot add to a frozenset -> AttributeError
 
-a = {'name': 'pey', 'phone'
-print(a['nokey'])
-#
-# get(x, '디폴트 값')
-#
-# 딕셔너리 안에 찾으려는 Key 값이 없을 경우
-# 미리 정해 둔 디폴트 값을 대신 가져오게 설정.
-#
-a.get('foo', 'bar')
-a.get('name', 'bar')
-#
-# 해당 Key가 딕셔너리 안에 있는지 조사하기(in)
-#
-a = {'name': 'pey', 'phone': '0119993323', 'birth': '1118'}
-'name' in a
-'foo' in a
+small_primes.remove(2)  # neither we can remove -> AttributeError
+
+small_primes & bigger_primes  # intersect, union, etc. allowed
+# frozenset({5, 7})
 
 #
 #
