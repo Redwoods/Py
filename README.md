@@ -5,4 +5,5 @@ Leaders are readers!
 I really wish my students always become good readers.
 
 ### Must read...
+[python-tutorial](https://data-flair.training/blogs/python-tutorial/)
 [numpy-intro](https://github.com/rasbt/deep-learning-book/blob/master/code/appendix_h_numpy-intro/appendix_numpy-intro.ipynb)
