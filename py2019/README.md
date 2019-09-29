@@ -1,6 +1,7 @@
 ## 파이썬활용
 - 2019년 2학기 
 - 헬스케어IT 학과 2학년 외 ...
+- [python-in-healthcare](https://data-flair.training/blogs/python-in-healthcare/)
 
 ### * | ID | 성명 |
 - py01	홍준기
