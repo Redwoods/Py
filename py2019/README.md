@@ -6,7 +6,7 @@
 ### * | ID | 성명 |
 - [py01	홍준기](https://github.com/hjg5015/py01)
 - [py02	배창연](https://github.com/py02/py02)
-- py03	신정우
+- [py03	신정우](https://github.com/wjddn1998/py03)
 - py04	하지훈
 - [py05	오가영](https://github.com/OGa-young/py05)
 - [py06	최예원](https://github.com/tiger0854/py06)
@@ -17,7 +17,7 @@
 - [py11	김세림](https://github.com/seelvita/py11)
 - [py12	김지윤](https://github.com/KIMJIYOON-PYTHON/py12)
 - [py13	김채영](https://github.com/kimchaeyoung-student/py13)
-- py14	김태윤
+- [py14	김태윤](https://github.com/taeyoon-99/py14)
 - [py15	김현정](https://github.com/dasdasqs2/py15)
 - [py16	김혜린](https://github.com/Kim-Hyerin/py16)
 - [py17	문선영](https://github.com/anstjsdud/py17)
