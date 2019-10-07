@@ -10,7 +10,7 @@
 - py04	하지훈  #
 - [py05	오가영](https://github.com/OGa-young/py05) #
 - [py06	최예원](https://github.com/tiger0854/py06)
-- [py07	강예인](https://github.com/KangYein/py07)  @ #
+- [py07	강예인](https://github.com/KangYein/py07)  @ 
 - [py08	김경창](https://github.com/rudckd0103/py08) #
 - [py09	김동훈](https://github.com/rlaehdgns03/py09)
 - [py10	김민성](https://github.com/minseongkimpy/py10)
