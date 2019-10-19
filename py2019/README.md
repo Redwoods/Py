@@ -13,14 +13,14 @@
 - [python-in-healthcare](https://data-flair.training/blogs/python-in-healthcare/)
 
 ### * | ID | 성명 |
-- [py01	홍준기](https://github.com/hjg5015/py01) @ @
-- [py02	배창연](https://github.com/py02/py02)  @
+- [py01	홍준기](https://github.com/hjg5015/py01) ^ @ @
+- [py02	배창연](https://github.com/py02/py02)  ^ @
 - [py03	신정우](https://github.com/wjddn1998/py03)
 - py04	하지훈  #
-- [py05	오가영](https://github.com/OGa-young/py05) #
+- [py05	오가영](https://github.com/OGa-young/py05) 
 - [py06	최예원](https://github.com/tiger0854/py06) #
 - [py07	강예인](https://github.com/KangYein/py07)  @ @
-- [py08	김경창](https://github.com/rudckd0103/py08) #
+- [py08	김경창](https://github.com/rudckd0103/py08) 
 - [py09	김동훈](https://github.com/rlaehdgns03/py09)
 - [py10	김민성](https://github.com/minseongkimpy/py10) ^
 - [py11	김세림](https://github.com/seelvita/py11) ^
