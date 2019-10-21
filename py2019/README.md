@@ -13,6 +13,7 @@
 - 2019년 2학기 
 - 헬스케어IT 학과 2학년 외 ...
 - [python-in-healthcare](https://data-flair.training/blogs/python-in-healthcare/)
+- [Python 3.8, change](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 
 ### * | ID | 성명 |
 - [py01	홍준기](https://github.com/hjg5015/py01) ^ @ @
