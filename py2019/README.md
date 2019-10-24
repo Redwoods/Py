@@ -12,8 +12,6 @@
 - 제출기한: 10월 28일(월) 오후 4시.
 - 업로드 파일명: pynn_exam_mid.ipynb (pynn은 id)
 
-> 과제 평가에 ^ 표시가 있는 경우는 본인 PC 또는 노트북에서 vscode로 파이썬 코딩을 하는 인증샷을 올리면 표시를 삭제함.
-
 ## 파이썬활용
 - 2019년 2학기 
 - 헬스케어IT 학과 2학년 외 ...
@@ -21,6 +19,8 @@
 - [Python 3.8, change](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 
 ### * | ID | 성명 |
+> 과제 평가에 ^ 표시가 있는 경우는 본인 PC 또는 노트북에서 vscode로 파이썬 코딩을 하는 인증샷을 올리면 표시를 삭제함.
+
 - [py01	홍준기](https://github.com/hjg5015/py01) ^ @ @
 - [py02	배창연](https://github.com/py02/py02)  ^ @
 - [py03	신정우](https://github.com/wjddn1998/py03)
