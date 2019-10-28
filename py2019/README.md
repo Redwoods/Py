@@ -36,7 +36,7 @@
 - [py13	김채영](https://github.com/kimchaeyoung-student/py13)
 - [py14	김태윤](https://github.com/taeyoon-99/py14) # #
 - [py15	김현정](https://github.com/dasdasqs2/py15)
-- [py16	김혜린](https://github.com/Kim-Hyerin/py16) ^
+- [py16	김혜린](https://github.com/Kim-Hyerin/py16) 
 - [py17	문선영](https://github.com/anstjsdud/py17) @
 - [py18	박도율](https://github.com/DoyulPark/py_18) ^
 - [py19	손채영](https://github.com/chaeyeongSon/py19)
