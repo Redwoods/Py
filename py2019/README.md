@@ -31,11 +31,11 @@
 - [py08	김경창](https://github.com/rudckd0103/py08) 
 - [py09	김동훈](https://github.com/rlaehdgns03/py09)
 - [py10	김민성](https://github.com/minseongkimpy/py10) @
-- [py11	김세림](https://github.com/seelvita/py11) 
-- [py12	김지윤](https://github.com/KIMJIYOON-PYTHON/py12)
-- [py13	김채영](https://github.com/kimchaeyoung-student/py13)
-- [py14	김태윤](https://github.com/taeyoon-99/py14) # #
-- [py15	김현정](https://github.com/dasdasqs2/py15)
+- [py11	김세림](https://github.com/seelvita/py11) # 
+- [py12	김지윤](https://github.com/KIMJIYOON-PYTHON/py12) @
+- [py13	김채영](https://github.com/kimchaeyoung-student/py13) @
+- [py14	김태윤](https://github.com/taeyoon-99/py14) # # #
+- [py15	김현정](https://github.com/dasdasqs2/py15) @
 - [py16	김혜린](https://github.com/Kim-Hyerin/py16) 
 - [py17	문선영](https://github.com/anstjsdud/py17) @
 - [py18	박도율](https://github.com/DoyulPark/py_18) ^
