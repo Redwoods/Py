@@ -41,12 +41,12 @@
 - [py16	김혜린](https://github.com/Kim-Hyerin/py16)  
 - [py17	문선영](https://github.com/anstjsdud/py17) @ @ @
 - [py18	박도율](https://github.com/DoyulPark/py_18) @
-- [py19	손채영](https://github.com/chaeyeongSon/py19) 
-- [py20	이시헌](https://github.com/LSH-123/py20) ^ # # # #
-- [py21	이주석](https://github.com/LEEJUSEOK/py21) # # #
-- [py22	이현지](https://github.com/ji91134/py_22) @
-- [py23	전대협](https://github.com/eoguq555/py23) # # #
-- [py24	조현훈](https://github.com/cky2675/py24) ^ # # #
+- [py19	손채영](https://github.com/chaeyeongSon/py19) @
+- [py20	이시헌](https://github.com/LSH-123/py20) ^ # # # # #
+- [py21	이주석](https://github.com/LEEJUSEOK/py21) # # # #
+- [py22	이현지](https://github.com/ji91134/py_22) @ @
+- [py23	전대협](https://github.com/eoguq555/py23) # #
+- [py24	조현훈](https://github.com/cky2675/py24) ^ # # # #
 
 ---
 # 중간고사 안내
