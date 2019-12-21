@@ -14,8 +14,8 @@
 - 업로드 파일명: pynn_exam_final.ipynb (pynn은 id)
 
 ### 방학 중 공부 자료
-- 수업에서 다루지 못한 파이썬 주요 모듈 소개를 올리니 방헉 중 공부해볼 것을 권합니다.
-[파이썬 주요 모듈 소개](https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules)
+- 수업에서 다루지 못한 파이썬 주요 모듈 소개를 올리니 방헉 중 공부해볼 것을 권합니다.  
+> [파이썬 주요 모듈 소개](https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules)
 
 ---
 
