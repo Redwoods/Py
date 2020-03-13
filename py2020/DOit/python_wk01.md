@@ -15,8 +15,8 @@
 ---
 ## 과제
 - 개인 PC 또는 노트북에 파이썬 설치
-  1. anaconda 설치 [anaconda]()
-  2. vscode 설치 [vscode]()
+  1. anaconda 설치 (Python 3.x) [anaconda download](https://www.anaconda.com/distribution/)
+  2. vscode 설치 [vscode download](https://code.visualstudio.com/download)
     - 확장팩(extensoion) 설치
       - Korean Language Pack for Visual Studio Code
       - Python
