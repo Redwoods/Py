@@ -48,13 +48,9 @@
 
 ### 여름방학 중 보충 공부 자료
 - 수업에서 다루지 못한 파이썬 주요 모듈 소개를 올리니 방학 중 공부해 볼 것을 권합니다.  
+- 다음 링크를 올흔쪽 마우스 클릭으로 새 탭으로 열어서 공부하세요.
 
-<a href="https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules/" target="_blank">[파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow]</a>
----
-[파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow]({{< ref "README.md" >}})
-Output: <a href="https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules/" target="_blank">파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow</a>
----
 [파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow](https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules/)
+---
 
-<a href="https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules/" target="_blank">파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow</a>
 
