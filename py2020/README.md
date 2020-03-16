@@ -53,4 +53,7 @@
 ---
 [파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow]({{< ref "README.md" >}})
 Output: <a href="https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules/" target="_blank">파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow</a>
+---
+[파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow](https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules/)
+Output: <a href="https://github.com/Redwoods/Py/tree/master/py2019/Lec/notebook/py_modules/" target="_blank">파이썬 주요 모듈 소개: numpy, pandas, matplotlib, sklearn, tensorflow</a>
 
