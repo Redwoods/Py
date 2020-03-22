@@ -43,6 +43,7 @@
 - [py25	최정윤](https://github.com/jeongy72/py25) *
 - [py26	한동민](https://github.com/)
 - [py27	여준하](https://github.com/)
+- [py28	who](https://github.com/)
 
 ---
 
