@@ -23,7 +23,6 @@ def add(num):
 
 
 # 이전에 계산한 결괏값을 기억
-print(add(5)
 print(add(3))
 print(add(4))
 
