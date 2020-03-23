@@ -31,7 +31,7 @@
 - [py12	박은서](https://github.com/dmstj0162/py12) *
 - [py13	박태훈](https://github.com/)
 - [py14	양승준](https://github.com/)
-- [py15	여지선](https://github.com/)
+- [py15	여지선](https://github.com/jiseonY/py15) *
 - [py16	여채윤](https://github.com/ducodbs0516/py16) *
 - [py17	오현영](https://github.com/Oh-HyunYoung/py17) *
 - [py18	이지선](https://github.com/jiseon0516/py18) *
@@ -39,12 +39,12 @@
 - [py20	정재은](https://github.com/joung-jaeeun/py20) *
 - [py21	정현준](https://github.com/jhjhj0703/py21) *
 - [py22	조민수](https://github.com/)
-- [py23	지예빈](https://github.com/Obliqueflo/py23)
+- [py23	지예빈](https://github.com/Obliqueflo/py23) *
 - [py24	천윤서](https://github.com/)
 - [py25	최정윤](https://github.com/jeongy72/py25) *
 - [py26	한동민](https://github.com/)
 - [py27	여준하](https://github.com/)
-- [py28 우원재](https://github.com/)
+- [py28 우원재](https://github.com/SALRIGO/py28)
 
 ---
 
