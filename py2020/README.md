@@ -22,7 +22,7 @@
 - [py03	김대희](https://github.com/)
 - [py04	김동우](https://github.com/dongwoo314/py04) *
 - [py05	김민규](https://github.com/)
-- [py06	김범수](https://github.com/)
+- [py06	김범수](https://github.com/bum3632/py06)
 - [py07	김시우](https://github.com/oceanshrimp/py07) *
 - [py08	김재익](https://github.com/kim0129s/py08) *
 - [py09	김호준](https://github.com/hojoooon/py09) *
