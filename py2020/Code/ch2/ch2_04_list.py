@@ -9,6 +9,7 @@ c = ['Life', 'is', 'too', 'short']
 d = [1, 2, 'Life', 'is']
 e = [1, 2, ['Life', 'is']]
 
+# list 초기화
 a = list()
 a   # []
 
