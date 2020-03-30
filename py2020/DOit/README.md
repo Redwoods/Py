@@ -11,8 +11,9 @@
 - github에 2,3주차 과제 제출
 
   1. 수업에서 만든 파이썬 노트 ch2_code01.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
-  2. 파이썬 노트 ch2_code01.ipynb 파일은 과제 폴더 안에 notebook 폴더를 만들어서 그 안에 올리시오.
-  2. 과제를 올릴 때 파이썬노트를 잘 요약 정리해서 올리시오. (토요일 밤 12시까지 계속 보완해서 올려도 됨.)
+  2. 파이썬 노트 ch2_code01.ipynb, ch2_code02.ipynb 파일은 과제 폴더 안에 notebook 폴더를 만들어서 그 안에 올리시오.
+    - 제출노트명: ch2_code01_pynn.ipynb, ch2_code02_pynn.ipynb
+  3. 과제를 올릴 때 파이썬노트를 잘 요약 정리해서 올리시오. (토요일 밤 12시까지 계속 보완해서 올려도 됨.)
  
 ---
 
@@ -31,7 +32,7 @@
 
   1. Google gmail 계정을 이용해서 https://github.com 에 공개 계정을 만드시오.
     - github 계정 id는 각가 정합니다. (본 교수의 id는 redwoods 임.)
-  2. 학생 개인 별로 할당된 id (py01 ~ py27)를 이용해서 repo (New repository)를 만드시오.
+  2. 학생 개인 별로 할당된 id (py01 ~ py28)를 이용해서 repo (New repository)를 만드시오.
   3. 학생 각자의 github 주소를 다음 이메일로 보내시오.
     - chaos21c@gmail.com
 
