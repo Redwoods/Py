@@ -10,7 +10,7 @@
      
 - github에 2,3,4주차 과제 제출
 
-  1. 수업에서 만든 파이썬 노트 ch2_code01.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
+  1. 수업에서 만든 파이썬 노트 ch2_code0x.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
   2. 파이썬 노트 ch2_code01.ipynb, ch2_code02.ipynb, ch2_code03.ipynb 파일은 과제 폴더 안에 notebook 폴더를 만들어서 그 안에 올리시오.
     - 제출노트명: ch2_code01_pynn.ipynb, ch2_code02_pynn.ipynb, ch2_code03_pynn.ipynb
   3. 과제를 올릴 때 파이썬노트를 잘 요약 정리해서 올리시오. (토요일 밤 12시까지 계속 보완해서 올려도 됨.)
