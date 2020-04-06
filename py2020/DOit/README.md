@@ -2,18 +2,19 @@
 ## 파이썬활용 이번 주에 마무리할 내용
 ---
 
-## 과제: wk02/wk03
+## 과제: wk02/wk03/wk04
 
 - 개인 PC 또는 노트북에 파이썬 설치 (<font color="red">**아직 설치가 안된 학생들은 설치를 마무리해주세요.**</font>)
   1. 1주차에 만든 첫번째 파이썬 코드 hello.py를 vscode에서 실행한 화면을 캡처하시오.
   2. 캡쳐한 그림 파일을 각자의 github 과제 폴더(py--)에 올리시오
      
-- github에 2,3주차 과제 제출
+- github에 2,3,4주차 과제 제출
 
   1. 수업에서 만든 파이썬 노트 ch2_code01.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
-  2. 파이썬 노트 ch2_code01.ipynb, ch2_code02.ipynb 파일은 과제 폴더 안에 notebook 폴더를 만들어서 그 안에 올리시오.
-    - 제출노트명: ch2_code01_pynn.ipynb, ch2_code02_pynn.ipynb
+  2. 파이썬 노트 ch2_code01.ipynb, ch2_code02.ipynb, ch2_code03.ipynb 파일은 과제 폴더 안에 notebook 폴더를 만들어서 그 안에 올리시오.
+    - 제출노트명: ch2_code01_pynn.ipynb, ch2_code02_pynn.ipynb, ch2_code03_pynn.ipynb
   3. 과제를 올릴 때 파이썬노트를 잘 요약 정리해서 올리시오. (토요일 밤 12시까지 계속 보완해서 올려도 됨.)
+  4. 2장 연습문제까지 다 제출하면 2장에 대한 종합 평가를 시행할 것이니, 각자의 과제물을 잘 관리(update)하세요.
  
 ---
 
