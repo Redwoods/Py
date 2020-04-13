@@ -15,7 +15,7 @@
     - 제출노트명: **`ch2_code01_pynn.ipynb, ch2_code02_pynn.ipynb, ch2_code03_pynn.ipynb`**
   3. 과제를 올릴 때 파이썬노트를 잘 요약 정리해서 올리시오. (토요일 밤 12시까지 계속 보완해서 올려도 됨.)
   4. 2장 연습문제까지 다 제출하면 2장에 대한 종합 평가를 시행할 것이니, 각자의 과제물을 잘 관리(update)하세요.
-    - 제출노트명: ch2_exercises_pynn.ipynb
+    - 제출노트명: **`ch2_exercises_pynn.ipynb`**
   5. ch2 과제 마감: 2020년 4월 18일(토) 밤 12시.
  
 ---
