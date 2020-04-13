@@ -8,7 +8,7 @@
   1. 1주차에 만든 첫번째 파이썬 코드 hello.py를 vscode에서 실행한 화면을 캡처하시오.
   2. 캡쳐한 그림 파일을 각자의 github 과제 폴더(py--)에 올리시오
      
-- github에 2,3,4주차 과제 제출
+- github에 2,3,4,5주차 과제 제출
 
   1. 수업에서 만든 파이썬 노트 ch2_code0x.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
   2. 파이썬 노트 ch2_code01.ipynb, ch2_code02.ipynb, ch2_code03.ipynb 파일은 과제 폴더 안에 notebook 폴더를 만들어서 그 안에 올리시오.
