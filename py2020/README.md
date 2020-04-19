@@ -20,7 +20,7 @@
 - [py01	김가윤](https://github.com/20193253/py01) *
 - [py02	김다영](https://github.com/dayeong918/py02) *
 - [py03	김대희](https://github.com/eoreordl/py03) *
-- [py04	김동우](https://github.com/dongwoo314/py04) *
+- [py04	김동우](https://github.com/dongwoo314/py04) * @
 - [py05	김민규](https://github.com/Skystar728/py05) * @
 - [py06	김범수](https://github.com/bum3632/py06) * #
 - [py07	김시우](https://github.com/oceanshrimp/py07) *
