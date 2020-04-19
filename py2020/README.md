@@ -17,7 +17,7 @@
   - '@' : 노력과 아이디어 인정!
   
 ### * | ID | 성명 |
-- [py01	김가윤](https://github.com/20193253/py01) *
+- [py01	김가윤](https://github.com/20193253/py01) * @
 - [py02	김다영](https://github.com/dayeong918/py02) * @
 - [py03	김대희](https://github.com/eoreordl/py03) *
 - [py04	김동우](https://github.com/dongwoo314/py04) * @
