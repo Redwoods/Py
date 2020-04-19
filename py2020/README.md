@@ -35,7 +35,7 @@
 - [py16	여채윤](https://github.com/ducodbs0516/py16) *
 - [py17	오현영](https://github.com/Oh-HyunYoung/py17) *
 - [py18	이지선](https://github.com/jiseon0516/py18) *
-- [py19	장지훈](https://github.com/JiHun-py19/py19) *
+- [py19	장지훈](https://github.com/JiHun-py19/py19) * #
 - [py20	정재은](https://github.com/joung-jaeeun/py20) *
 - [py21	정현준](https://github.com/jhjhj0703/py21) *
 - [py22	조민수](https://github.com/rmfltm854/py22) * ^
