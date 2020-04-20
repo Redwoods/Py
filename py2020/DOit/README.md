@@ -8,7 +8,7 @@
 
   1. 수업에서 만든 파이썬 노트 ch3_code0x.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
   2. 파이썬 노트 ch3_code01.ipynb, ch3_code02.ipynb 파일은 정리한 후, 이름을 아래와 같이 변경해서 notebook 폴더에 올리시오.
-    - 제출노트명: **`ch2_code01_pynn.ipynb, ch2_code02_pynn.ipynb.ipynb`**
+    - 제출노트명: **`ch3_code01_pynn.ipynb, ch3_code02_pynn.ipynb.ipynb`**
   3. 과제를 올릴 때 파이썬노트를 잘 요약 정리해서 올리시오. (토요일 밤 12시까지 계속 보완해서 올려도 됨.)
   4. 3장 연습문제까지 다 제출하면 3장에 대한 종합 평가를 시행할 것이니, 각자의 과제물을 잘 관리(update)하세요.
     - 제출노트명: **`ch3_exercises_pynn.ipynb`**
