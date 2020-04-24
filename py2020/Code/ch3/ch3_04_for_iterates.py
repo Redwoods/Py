@@ -1,7 +1,7 @@
 # ch3_04_for_iterates.py
 #
 ############################
-print("for 문과 itrator")
+print("for 문과 iterator")
 ############################
 subjects = ['python', 'english', 'math', 'science']
 scores = [88, 77, 66, 95]
