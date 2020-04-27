@@ -10,7 +10,7 @@
 - 보고서: 온라인퀴즈 지정문제 풀이
   - 5월 9일(토요일) 밤 12시 마감
   - 업로드 파일명: mid_exam_pynn.ipynb
-  - 햐소ㅕㅠdml pynn repo의 notebook 폴더에 
+  - github의 pynn repo 안의 notebook 폴더에 업로드
 
 
 ---
