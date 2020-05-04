@@ -11,7 +11,7 @@
   - 배점 (15점)
   - 5월 9일(토요일) 밤 12시 마감
   - 1부/2부 총 10문제 풀이 노트 작성. 
-  - 업로드 파일명: mid_exam_pynn.ipynb
+  - 업로드 파일명: **`mid_exam_pynn.ipynb`**
   - github의 pynn repo 안의 notebook 폴더에 업로드
 
 
