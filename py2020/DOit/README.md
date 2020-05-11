@@ -4,7 +4,7 @@
 
 ## 과제: wk09/wk10
    
-- github에 9, 10주차 과제 제출 [ch4 과제 정리]
+- github에 9, 10주차 과제 제출 [ch4. 함수, 과제 정리]
 
   1. 수업에서 만든 파이썬 노트 ch4_code0x.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
   2. 파이썬 노트 ch4_code01.ipynb, ch4_code02.ipynb 파일은 정리한 후, 이름을 아래와 같이 변경해서 notebook 폴더에 올리시오.
