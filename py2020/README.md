@@ -42,7 +42,7 @@
 - [py20	정재은](https://github.com/joung-jaeeun/py20) * ^ @@
 - [py21	정현준](https://github.com/jhjhj0703/py21) * @
 - [py22	조민수](https://github.com/rmfltm854/py22) * ^
-- [py23	지예빈](https://github.com/Obliqueflo/py23) * @ @
+- [py23	지예빈](https://github.com/Obliqueflo/py23) * @ @@
 - [py24	천윤서](https://github.com/)
 - [py25	최정윤](https://github.com/jeongy72/py25) * @
 - [py26	한동민](https://github.com/a151122/py26) * # # #
