@@ -27,7 +27,7 @@
 - [py05	김민규](https://github.com/Skystar728/py05) * @ @ @ @
 - [py06	김범수](https://github.com/bum3632/py06) * # # @ #
 - [py07	김시우](https://github.com/oceanshrimp/py07) * @
-- [py08	김재익](https://github.com/kim0129s/py08) * @ @ #
+- [py08	김재익](https://github.com/kim0129s/py08) * @ @ #(R)
 - [py09	김호준](https://github.com/hojoooon/py09) * ^ #
 - [py10	박미르](https://github.com/py10/py10) * ^ @@ ^
 - [py11	박시원](https://github.com/w2j1y12/py11) * @ @ @
