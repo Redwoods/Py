@@ -9,7 +9,7 @@
 1. 헬스케어IT 산업에서 요구하는 데이터 코딩 능력 확보
 2. 헬스케어데이터를 처리하는 기초 코딩 방법 소개와 응용
 ---
-- [이번 주의 과제: ch4 노트 정리](https://github.com/Redwoods/Py/tree/master/py2020/DOit)
+- [이번 주의 과제: ch5 노트 정리](https://github.com/Redwoods/Py/tree/master/py2020/DOit)
 
 - **과제평가**
   - '#' : 과제 미제출 (-1)
