@@ -2,17 +2,17 @@
 ## 파이썬활용 이번 주에 마무리할 내용
 ---
 
-## 과제: wk11/wk12 (6월1일(월) 오후 3시부터 실시간 수업 진행!)
+## 과제: wk11/wk12/wk13 
    
 - github에11, 12주차 과제 제출 [ch5. 파이썬 날개 달기-클래스, 모듈, 예외처리, 내장함수: 과제 정리]
 
   1. 수업에서 만든 파이썬 노트 ch5_code0x.ipynb를 github 과제 폴더(py--)에 다음과 같이 올리시오.
-  2. 파이썬 노트 ch5_code01.ipynb, ch5_code02.ipynb 파일은 정리한 후, 이름을 아래와 같이 변경해서 notebook 폴더에 올리시오.
-    - 제출노트명: **`ch5_code01_pynn.ipynb, ch5_code02_pynn.ipynb`**
+  2. 파이썬 노트 ch5_code01.ipynb, ch5_code02.ipynb 파일과 추가 파일 03, 04를 정리한 후, 이름을 아래와 같이 변경해서 notebook 폴더에 올리시오.
+    - 제출노트명: **`ch5_code01_pynn.ipynb, ch5_code02_pynn.ipynb, ch5_code03_package_pynn.ipynb, ch5_code04__name__pynn.ipynb`**
   3. 과제를 올릴 때 파이썬노트를 잘 요약 정리해서 올리시오. (토요일 밤 12시까지 계속 보완해서 올려도 됨.)
   4. 5장 연습문제까지 다 제출하면 5장에 대한 종합 평가를 시행할 것이니, 각자의 과제물을 잘 관리(update)하세요.
     - 제출노트명: **`ch5_exercises_pynn.ipynb`**
-  5. ch5 과제 마감: 2020년 6월 6일(토) 밤 12시.
+  5. ch5 과제 마감: 2020년 6월 13일(토) 밤 12시.
  
 ---
 
