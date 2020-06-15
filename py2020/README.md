@@ -23,20 +23,20 @@
   - 2문제 이상 설명 미흡: , 1문제 설명 미흡:@ , 모든 문제 설명:@@ , Best:@@@    
   
 ### * | ID | 성명 |
-- [py01	김가윤](https://github.com/20193253/py01) * @ @ @ @
-- [py02	김다영](https://github.com/dayeong918/py02) * @ @@ @
-- [py03	김대희](https://github.com/eoreordl/py03) * @ @
-- [py04	김동우](https://github.com/dongwoo314/py04) * @ @ @
-- [py05	김민규](https://github.com/Skystar728/py05) * @ @ @ @@
-- [py06	김범수](https://github.com/bum3632/py06) * # # @ #
-- [py07	김시우](https://github.com/oceanshrimp/py07) * @
-- [py08	김재익](https://github.com/kim0129s/py08) * @ @ 
-- [py09	김호준](https://github.com/hojoooon/py09) * ^ #
-- [py10	박미르](https://github.com/py10/py10) * ^ @@ ^ #
-- [py11	박시원](https://github.com/w2j1y12/py11) * @ @ @
+- [py01	김가윤](https://github.com/20193253/py01) * @ @ @ @ @
+- [py02	김다영](https://github.com/dayeong918/py02) * @ @@ @ @
+- [py03	김대희](https://github.com/eoreordl/py03) * @ @ @
+- [py04	김동우](https://github.com/dongwoo314/py04) * @ @ @ @
+- [py05	김민규](https://github.com/Skystar728/py05) * @ @ @ @@ @@
+- [py06	김범수](https://github.com/bum3632/py06) * # # @ # #
+- [py07	김시우](https://github.com/oceanshrimp/py07) * @ ^
+- [py08	김재익](https://github.com/kim0129s/py08) * @ @ @
+- [py09	김호준](https://github.com/hojoooon/py09) * ^ # ^
+- [py10	박미르](https://github.com/py10/py10) * ^ @@ ^ # ^
+- [py11	박시원](https://github.com/w2j1y12/py11) * @ @ @ 
 - [py12	박은서](https://github.com/dmstj0162/py12) * ^ @
-- [py13	박태훈](https://github.com/py13taehun/py13) * # # # #
-- [py14	양승준](https://github.com/sj0328/py14) * # # # #
+- [py13	박태훈](https://github.com/py13taehun/py13) * # # # # #
+- [py14	양승준](https://github.com/sj0328/py14) * # # # # #
 - [py15	여지선](https://github.com/jiseonY/py15) * @ ^ @@ ^
 - [py16	여채윤](https://github.com/ducodbs0516/py16) * @ @ @@@ @@
 - [py17	오현영](https://github.com/Oh-HyunYoung/py17) * @ @ @
