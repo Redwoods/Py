@@ -38,7 +38,7 @@
 - [py13	박태훈](https://github.com/py13taehun/py13) * # # # # #
 - [py14	양승준](https://github.com/sj0328/py14) * # # # # #
 - [py15	여지선](https://github.com/jiseonY/py15) * @ ^ @@ ^ @
-- [py16	여채윤](https://github.com/ducodbs0516/py16) * @ @ @@@ @@ @
+- [py16	여채윤](https://github.com/ducodbs0516/py16) * @ @ @@@ @@ @@
 - [py17	오현영](https://github.com/Oh-HyunYoung/py17) * @ @ @ @
 - [py18	이지선](https://github.com/jiseon0516/py18) * @ @ @
 - [py19	장지훈](https://github.com/jihoon119/py19) * # # # # #
