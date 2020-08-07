@@ -69,6 +69,8 @@
     - [My 3-year journey: From zero Python to Deep Learning competition master, 부제: From Matlab to Python](https://towardsdatascience.com/my-3-year-journey-from-zero-python-to-deep-learning-competition-master-6605c188eec7)
     
     - [Youtub: Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c&feature=youtu.be)
+    
+    - [ml-dl-visual-intro](https://www.infoq.com/presentations/ml-dl-visual-intro/)
 
 ---
 
