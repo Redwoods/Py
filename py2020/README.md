@@ -71,6 +71,8 @@
     - [Youtub: Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c&feature=youtu.be)
     
     - [ml-dl-visual-intro](https://www.infoq.com/presentations/ml-dl-visual-intro/)
+    
+    - [deep-learning-most-important-ideas](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
 ---
 
