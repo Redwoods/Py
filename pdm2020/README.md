@@ -18,7 +18,7 @@
   - GPU powered code editor
   - Web based environment : everytime & everywhere
 * GitHub
-  - 수업 노트 관리 및 과제 제출  
+  - 수업 노트 관리 및 과제 제출/평가    
   - 개인별 repo  
     * pdm01
     * dm02
