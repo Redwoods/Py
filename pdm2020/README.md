@@ -16,7 +16,7 @@
     * streamlit
     
 ## 수업 도구
-* Google Colab
+* Google Colab & Google drive
   - GPU powered code editor
   - Web based environment : everytime & everywhere
 * GitHub
