@@ -1,5 +1,4 @@
 # 생체신호 마이닝 (2020 2학기)
-#### 연구실: E319, email: chaos21c@gmail.com
 
 ## Physiological Data Mining
 * Physiological data
@@ -33,4 +32,6 @@
     * pdm08
     * pdm09
     * pdm10
-    
+ ---
+ #### 연구실: E319, email: chaos21c@gmail.com
+ 
