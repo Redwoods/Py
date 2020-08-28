@@ -1,4 +1,5 @@
 # 생체신호 마이닝 (2020 2학기)
+
 ## Physiological Data Mining
 * Physiological data
   - images & movies
@@ -11,4 +12,22 @@
   - 데이터 분석
     * 특징 추출 및 머신러닝
     * 딥러닝
+    
+## 수업 도구
+* Google Colab
+  - GPU powered code editor
+  - Web based environment : everytime & everywhere
+* GitHub
+  - 수업 노트 관리 및 과제 제출  
+  - 개인별 repo  
+    * pdm01
+    * dm02
+    * pdm03
+    * pdm04
+    * pdm05
+    * pdm06
+    * pdm07
+    * dm08
+    * pdm09
+    * pdm10
     
