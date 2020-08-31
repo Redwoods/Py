@@ -12,3 +12,8 @@
     - [deep-learning-most-important-ideas](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
 ---
+
+## Data
+
+* [data-repositories-for-almost-every-type-of-data-science-project](https://towardsdatascience.com/data-repositories-for-almost-every-type-of-data-science-project-7aa2f98128b)
+
