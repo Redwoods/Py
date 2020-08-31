@@ -13,12 +13,12 @@
 ---
 ## ML & DL
 
-  - [deep-learning-an-overview](https://becominghuman.ai/deep-learning-an-overview-5f40feb15d1e}
+  - [deep-learning-an-overview](https://becominghuman.ai/deep-learning-an-overview-5f40feb15d1e)  
 
-  - [activation-functions-sigmoid-relu](https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e)
+  - [activation-functions-sigmoid-relu](https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e)  
 
 
 ## Data
 
-* [data-repositories-for-almost-every-type-of-data-science-project](https://towardsdatascience.com/data-repositories-for-almost-every-type-of-data-science-project-7aa2f98128b)
+* [data-repositories-for-almost-every-type-of-data-science-project](https://towardsdatascience.com/data-repositories-for-almost-every-type-of-data-science-project-7aa2f98128b)  
 
