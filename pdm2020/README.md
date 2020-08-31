@@ -22,16 +22,16 @@
 * GitHub
   - 수업 노트 관리 및 과제 제출/평가    
   - 개인별 repo  
-    * pdm01
-    * pdm02
-    * pdm03
-    * pdm04
-    * pdm05
-    * pdm06
-    * pdm07
-    * pdm08
-    * pdm09
-    * pdm10
+    * pdm01: 오가영
+    * pdm02: 김경창
+    * pdm03: 김지윤
+    * pdm04: 김채영
+    * pdm05: 김현정
+    * pdm06: 김혜린
+    * pdm07: 문선영
+    * pdm08: 박도율
+    * pdm09: 손채영
+    * pdm10: 손혁준
  ---
  #### 연구실: E319, email: chaos21c@gmail.com
  
