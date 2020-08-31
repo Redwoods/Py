@@ -27,7 +27,7 @@
     * pdm03: 김지윤
     * [pdm04: 김채영](https://github.com/kimchaeyoung-student/pdm04)
     * [pdm05: 김현정](https://github.com/dasdasqs2/pdm05)
-    * pdm06: 김혜린
+    * [pdm06: 김혜린](https://github.com/Kim-Hyerin/pdm06)
     * [pdm07: 문선영](https://github.com/anstjsdud/pdm07)
     * pdm08: 박도율
     * [pdm09: 손채영](https://github.com/chaeyeongSon/pdm09)
