@@ -22,7 +22,7 @@
 * GitHub
   - 수업 노트 관리 및 과제 제출/평가 (평가 단계: #, *, @, @@)
   - 개인별 repo  
-    * [pdm01: 오가영]https://github.com/o-going/pdm01)
+    * [pdm01: 오가영](https://github.com/o-going/pdm01)
     * [pdm02: 김경창](https://github.com/rldckd0103/pdm02)
     * pdm03: 김지윤
     * [pdm04: 김채영](https://github.com/kimchaeyoung-student/pdm04)
