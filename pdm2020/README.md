@@ -20,7 +20,7 @@
   - GPU powered code editor
   - Web based environment : everytime & everywhere
 * GitHub
-  - 수업 노트 관리 및 과제 제출/평가    
+  - 수업 노트 관리 및 과제 제출/평가 (평가 단계: #, *, @, @@)
   - 개인별 repo  
     * pdm01: 오가영
     * pdm02: 김경창
