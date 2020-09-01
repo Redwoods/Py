@@ -7,12 +7,12 @@
   - text
 * Data Mining
   - 데이터 수집 (Acquisition)
-  - 데이터 전처리(preprocessing)
+  - 데이터 전처리(Preprocessing)
   - 데이터시각화 (Visualization)
-  - 데이터 분석
+  - 데이터 분석 (Analysis)
     * 특징 추출 및 머신러닝
     * 딥러닝
-  - AI 모델 기반 서비스
+  - AI 모델 기반 서비스 (Service)
     * streamlit
     
 ## 수업 도구
