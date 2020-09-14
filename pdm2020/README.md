@@ -21,6 +21,8 @@
   - Web based environment : everytime & everywhere
 * GitHub
   - 수업 노트 관리 및 과제 제출/평가 (평가 단계: #, *, @, @@)
+    * 9월14일 자정 numpy 마감 (과제평가-1 실시) 
+    
   - 개인별 repo  
     * [pdm01: 오가영](https://github.com/o-going/pdm01) *
     * [pdm02: 김경창](https://github.com/rldckd0103/pdm02) *
