@@ -49,23 +49,15 @@ if st.checkbox("Show source and style images", key='raw'):
   plt.imshow(style_img)
   plt.title('Style Image')
   st.pyplot(fig)
-
-
-st.info("Check here to compare three images:source, style, target")
-if st.checkbox("Show source and style images", key='compare'):
-  fig = plt.figure(figsize=(12, 6))
-  plt.subplot(1, 3, 1)
-  plt.imshow(source_img)
-  plt.title('Source Image')
-  plt.subplot(1, 3, 2)
-  plt.imshow(style_img)
-  plt.title('Style Image')
-  plt.subplot(1, 3, 3)
-  plt.imshow(style_img)
-  plt.title('Styled Image')
-  st.pyplot(fig)
   st.success("Completed!")
 
-
-
+# New way to show images in columns (New features of streamlit)
+st.info("Check here to show images:source, style in cloumns")
+if st.checkbox("Show source and style images", key='column'):
+    col1, col2 = st.beta_columns(2)
+    col1.header("Source iamge")
+    col1.image(source_img, use_column_width=True)
+    col2.header("Style image")
+    col2.image(style_img, use_column_width=True)
+    st.success("Column images, Completed!")
 
