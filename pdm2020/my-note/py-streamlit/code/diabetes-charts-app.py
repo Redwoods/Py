@@ -17,3 +17,6 @@ chart = st.line_chart(df)
 ## EDA of diabetes.csv
 # Your code here !!
 
+
+
+
