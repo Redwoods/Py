@@ -1,26 +1,10 @@
 import streamlit as st
-import tensorflow as tf
 import matplotlib.pyplot as plt
 import numpy as np
-import io
+# import io
 from PIL import Image
 
-st.set_option('deprecation.showfileUploaderEncoding', False)
-# functions
-def img_scaler(image, max_dim = 512):
-
-  # Casts a tensor to a new type.
-  original_shape = tf.cast(tf.shape(image)[:-1], tf.float32)
-
-  # Creates a scale constant for the image
-  scale_ratio = max_dim / max(original_shape)
-
-  # Casts a tensor to a new type.
-  new_shape = tf.cast(original_shape * scale_ratio, tf.int32)
-
-  # Resizes the image based on the scaling constant generated above
-  return tf.image.resize(image, new_shape)
-
+# st.set_option('deprecation.showfileUploaderEncoding', False)
 
 #### Load images
 # Types of images
