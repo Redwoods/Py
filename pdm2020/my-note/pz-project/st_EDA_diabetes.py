@@ -103,4 +103,4 @@ fig5 = plt.figure(figsize=(5,4))
 hmap_params = st.multiselect("Select parameters to include on heatmap", options=list(df.columns), default=[p for p in df.columns if "Outcome" not in p])
 sns.heatmap(df[hmap_params].corr(), annot=True, vmin=-1, vmax=1, cmap='coolwarm')
 st.pyplot(fig5)
-# st.write(hmap_fig)
+
