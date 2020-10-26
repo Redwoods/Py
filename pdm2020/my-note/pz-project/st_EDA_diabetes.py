@@ -28,8 +28,6 @@ st.write('***')
 st.dataframe(df)
 # Get statistics on the data
 # st.write(df.describe())
-# Show the data as a chart.
-# chart = st.line_chart(df)
     
 # histogram with plotly
 st.header("Histogram")
@@ -72,7 +70,7 @@ with row1_2:
 st.write("Hint - try comparison w.r.t Catagories")
 box_fig = px.box(df, x=box_cat, y=box_x, title="Box plot of " + box_x, color='Outcome', 
                         color_discrete_map=dict(noDM = 'green', DM = 'red'), 
-                        template="plotly_white") #, category_orders={"pos_simple": ["PG", "SG", "SF", "PF", "C"]})
+                        template="plotly_white") 
 st.write(box_fig)
 
 # Correlations
@@ -98,8 +96,6 @@ fig4 = plt.figure(figsize=(6,5))
 sns.heatmap(df.corr(),annot=True, vmin=-1, vmax=1, cmap='coolwarm')
 st.pyplot(fig4)
 # st.write(fig4)
-
-# 출처: https://rfriend.tistory.com/409 [R, Python 분석과 프로그래밍의 친구 (by R Friend)]
 
 # correlation heatmap
 st.subheader('Heatmap of selected parameters')
