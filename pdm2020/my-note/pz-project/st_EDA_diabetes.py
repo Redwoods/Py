@@ -74,7 +74,7 @@ box_fig = px.box(df, x=box_cat, y=box_x, title="Box plot of " + box_x, color='Ou
 st.write(box_fig)
 
 # Correlations
-## multi-column layput
+## multi-column layout
 st.header("Correlations")
 row2_1, row2_space2, row2_2 = st.beta_columns((1, .1, 1))
 
