@@ -1,6 +1,6 @@
 # streamlit-folium map
 
 ## RUN
-- In Vscode terminal
+- In VScode terminal
     * streamlit run st_map_iju.py
   
