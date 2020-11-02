@@ -2,6 +2,10 @@
 - #### 생체신호마이닝 주별 정리 및 과제 노트 모음  
 
 ## 주별 강의 내용
+* ### ML vs. DL
+  - ML : numpy, pandas, matplotlib, sklearn
+  - DL : numpy, matplotlib, tensorflow
+  
 * ### [numpy (2~3주)](https://github.com/Redwoods/Py/tree/master/pdm2020/my-note/numpy)  
   - 스칼라, 벡터, 행렬, 배열, 텐서란 무엇?
   - 수치 연산
