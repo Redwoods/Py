@@ -25,7 +25,7 @@
     
   - 개인별 repo  
     * [pdm01: 오가영](https://github.com/o-going/pdm01) * * @ @ @ @ @@ @
-    * [pdm02: 김경창](https://github.com/rldckd0103/pdm02) * @ * * # @ @ @
+    * [pdm02: 김경창](https://github.com/rldckd0103/pdm02) * @ * * # @ @ @@
     * [pdm04: 김채영](https://github.com/kimchaeyoung-student/pdm04) * @@ @ @ @@ @ @@ @@
     * [pdm05: 김현정](https://github.com/dasdasqs2/pdm05) * @ @ @ * @ @ @@
     * [pdm06: 김혜린](https://github.com/Kim-Hyerin/pdm06) * @ # @ @ @@ @@ @
