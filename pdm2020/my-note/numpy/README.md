@@ -1,6 +1,6 @@
 # numpy
 
-> numpy의 개념과 numpy가 필요한 이유, numpy를 이용하여 벡터와 matrix 즉, 행렬을 만들고 이를 상호변환 시킬 수 있는 API를 사용하는 방법에 대해 알아본다.
+> numpy의 개념과 numpy가 필요한 이유, numpy를 이용하여 벡터와 matrix 즉, 행렬을 만들고 이를 상호변환 시킬 수 있는 API를 사용하는 방법에 대해 알아본다.  
 > [Diving into numpy](https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f)  
 
 ## numpy의 개념, 그리고 numpy를 사용하는 이유  
