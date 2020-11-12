@@ -9,6 +9,7 @@
 * ### [numpy (2~3주)](https://github.com/Redwoods/Py/tree/master/pdm2020/my-note/numpy)  
   - 스칼라, 벡터, 행렬, 배열, 텐서란 무엇?
   - 수치 연산
+  - [numpy intro](https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f)  
   
   - **과제(2~3주)**  
     * github에 numpy 폴더를 만들어서 수업 중 실습한 파일을 정리해서 올리시오.
