@@ -21,7 +21,7 @@
   - Web based environment : everytime & everywhere
 * GitHub
   - 수업 노트 관리 및 과제 제출/평가 (평가 단계: #, *, @, @@)
-    * 11월5일 자정 streamlit II 마감 (과제평가-8 실시) 
+    * 11월18일(수) 자정 FCN & CNN-I 마감 (과제평가-9 실시)  
     
   - 개인별 repo  
     * [pdm01: 오가영](https://github.com/o-going/pdm01) * * @ @ @ @ @@ @ @
