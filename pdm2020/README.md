@@ -24,7 +24,7 @@
     * 12월214일(일) 자정 마감 (기말과제평가 실시)  
     
   - 개인별 repo  
-    * [pdm01: 오가영](https://github.com/o-going/pdm01) * * @ @ @ @ @@ @ @ @ # @@@
+    * [pdm01: 오가영](https://github.com/o-going/pdm01) * * @ @ @ @ @@ @ @ @ # @@@@
     * [pdm02: 김경창](https://github.com/rldckd0103/pdm02) * @ * * # @ @ @@ @ @ @ @@
     * [pdm04: 김채영](https://github.com/kimchaeyoung-student/pdm04) * @@ @ @ @@ @ @@ @@ @@ @@ @@ @@@@
     * [pdm05: 김현정](https://github.com/dasdasqs2/pdm05) * @ @ @ * @ @ @@ @ @ @@ @@@@@
