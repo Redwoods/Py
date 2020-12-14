@@ -21,17 +21,17 @@
   - Web based environment : everytime & everywhere
 * GitHub
   - 수업 노트 관리 및 과제 제출/평가 (평가 단계: #, *, @, @@)
-    * 11월21일(토) 정오 FCN & CNN-I 마감 (과제평가-9 실시)  
+    * 12월214일(일) 자정 마감 (기말과제평가 실시)  
     
   - 개인별 repo  
-    * [pdm01: 오가영](https://github.com/o-going/pdm01) * * @ @ @ @ @@ @ @ @ #
-    * [pdm02: 김경창](https://github.com/rldckd0103/pdm02) * @ * * # @ @ @@ @ @ @
-    * [pdm04: 김채영](https://github.com/kimchaeyoung-student/pdm04) * @@ @ @ @@ @ @@ @@ @@ @@ @@
-    * [pdm05: 김현정](https://github.com/dasdasqs2/pdm05) * @ @ @ * @ @ @@ @ @ @@
-    * [pdm06: 김혜린](https://github.com/Kim-Hyerin/pdm06) * @ # @ @ @@ @@ @ @ @@ @@
-    * [pdm07: 문선영](https://github.com/anstjsdud/pdm07) * @@ @ @ @ @ @ @ @ @ *
-    * [pdm08: 박도율](https://github.com/DoyulPark/pdm08) * * @ @ * # * @ @ @ *
-    * [pdm09: 손채영](https://github.com/chaeyeongSon/pdm09) * @@ @@ @ @@ @@ @@ @@ @@ @@ @@
+    * [pdm01: 오가영](https://github.com/o-going/pdm01) * * @ @ @ @ @@ @ @ @ # @@@
+    * [pdm02: 김경창](https://github.com/rldckd0103/pdm02) * @ * * # @ @ @@ @ @ @ @@
+    * [pdm04: 김채영](https://github.com/kimchaeyoung-student/pdm04) * @@ @ @ @@ @ @@ @@ @@ @@ @@ @@@@
+    * [pdm05: 김현정](https://github.com/dasdasqs2/pdm05) * @ @ @ * @ @ @@ @ @ @@ @@@@@
+    * [pdm06: 김혜린](https://github.com/Kim-Hyerin/pdm06) * @ # @ @ @@ @@ @ @ @@ @@ @@@
+    * [pdm07: 문선영](https://github.com/anstjsdud/pdm07) * @@ @ @ @ @ @ @ @ @ * @@
+    * [pdm08: 박도율](https://github.com/DoyulPark/pdm08) * * @ @ * # * @ @ @ * @@
+    * [pdm09: 손채영](https://github.com/chaeyeongSon/pdm09) * @@ @@ @ @@ @@ @@ @@ @@ @@ @@ @@@@
  ---
  #### 연구실: E319, email: chaos21c@gmail.com
  
