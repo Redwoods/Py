@@ -33,5 +33,12 @@
     * [pdm08: 박도율](https://github.com/DoyulPark/pdm08) * * @ @ * # * @ @ @ * @@
     * [pdm09: 손채영](https://github.com/chaeyeongSon/pdm09) * @@ @@ @ @@ @@ @@ @@ @@ @@ @@ @@@@
  ---
- #### 연구실: E319, email: chaos21c@gmail.com
+ 
+ ## [도전] 심화 학습 자료
+
+ - [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks)  
+ - [Pytorch 딥러닝 입문](https://github.com/Justin-A/DeepLearning101)  
+ 
+ ---
+  #### 연구실: E319, email: chaos21c@gmail.com
  
