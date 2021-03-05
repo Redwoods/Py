@@ -9,3 +9,7 @@
 2. 헬스케어데이터를 처리하는 기초 코딩 방법 소개와 응용
 ### 교재:  Do it! 점프 투 파이썬
 ---
+### 주별 과제 평가
+- [PA (5,6교시)](https://github.com/Redwoods/Py/blob/master/py-doit/DOit/PA_report.md)
+- [PB (7,8교시)](https://github.com/Redwoods/Py/blob/master/py-doit/DOit/PB_report.md)
+---
