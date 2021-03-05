@@ -32,14 +32,8 @@
   3. 학생 각자의 github repo 주소를 다음 이메일로 보내시오.
     - chaos21c@gmail.com
 
-  
+---  
 ## 다음 주 수업 안내
 - 파이썬의 자료형 I.
- 
 ---
 
-# 수업자료실 : github
-
-# > [Redwood's GitHub](https://github.com/Redwoods/Py/tree/master/py-doit)
-
-> https://github.com/Redwoods/Py/tree/master/py-doit
