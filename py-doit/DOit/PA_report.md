@@ -1,4 +1,4 @@
-## PA 과제 github repo 및 평가
+## PA(5,6교시) 과제 github repo 및 평가
 
 ---
 ## 과제 평가
