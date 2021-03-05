@@ -13,3 +13,4 @@
 - [PA (5,6교시)](https://github.com/Redwoods/Py/blob/master/py-doit/DOit/PA_report.md)
 - [PB (7,8교시)](https://github.com/Redwoods/Py/blob/master/py-doit/DOit/PB_report.md)
 ---
+* [examples-and-benefits-of-ai-in-healthcare](https://becominghuman.ai/the-examples-and-benefits-of-ai-in-healthcare-71256107f6b7)
