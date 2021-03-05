@@ -1,6 +1,6 @@
 ## PA 과제 github repo 및 평가
 
-
+---
 - [PA01	장명재]()
 - [PA02	정성엽]()
 - [PA03	김범석]()
@@ -27,5 +27,6 @@
 - [PA24	설지현]()
 - [PA25	차동근]()
 - [PA26	정민지]()
+---
 
-![image](https://user-images.githubusercontent.com/8246219/110066296-75456700-7db4-11eb-8973-dcdba2b57f9b.png)
+
