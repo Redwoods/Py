@@ -8,31 +8,31 @@
 ---
 - [PA01	장명재]()
 - [PA02	정성엽]()
-- [PA03	김범석]()
+- [PA03	김범석](https://github.com/ssgbeom1/pa03) *
 - [PA04	김재준]()
 - [PA05	서준용](https://github.com/seojunyong89/PA05) *
 - [PA06	석시현]()
-- [PA07	여창준]()
-- [PA08	이승엽]()
+- [PA07	여창준](http://github.com/dpfpsel0622/pa07) *
+- [PA08	이승엽](https://github.com/lddor7/PA08) *
 - [PA09	이재희]()
-- [PA10	이진영]()
-- [PA11	정호상]()
-- [PA12	조현호]()
-- [PA13	최석기]()
+- [PA10	이진영](http://github.com/dlwlsdud7/PA10) *
+- [PA11	정호상](https://github.com/goaldeer/pa11) *
+- [PA12	조현호](https://github.com/whgusgh59/PA12) *
+- [PA13	최석기](https://github.com/tjrrl0904/PA13) *
 - [PA14	강병호]()
 - [PA15	한채린]()
 - [PA16	강지민]()
 - [PA17	김준영]()
 - [PA18	김찬종]()
 - [PA19	박광선]()
-- [PA20	박민혁]()
+- [PA20	박민혁](https://github.com/minhyeokpark/PA20) *
 - [PA21	박승희]()
-- [PA22	박윤후]()
+- [PA22	박윤후](https://github.com/qkrdbsgn12/pa22) *
 - [PA23	박희주]()
 - [PA24	설지현]()
 - [PA25	차동근]()
 - [PA26	정민지]()
-- [PA27 김수웅](https://github.com/rlatndnd9804/PA27)
+- [PA27 김수웅](https://github.com/rlatndnd9804/PA27) *
 ---
 
 
