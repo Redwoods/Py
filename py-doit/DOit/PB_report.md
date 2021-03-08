@@ -8,7 +8,6 @@
 ---
 - [PB01	김동욱](https://github.com/kkdw428/BP01) BP01 ?
 - [PB02	김민구]()
-- [PB03	김수웅]()
 - [PB04	박수현]()
 - [PB05	원지찬](https://github.com/dnjswlcks67/pb05) *
 - [PB06	이유리]()
