@@ -13,7 +13,7 @@
 - [PB05	원지찬](https://github.com/dnjswlcks67/pb05) *
 - [PB06	이유리]()
 - [PB07	이유림]()
-- [PB08	이태영]()
+- [PB08	이태영](http://github.com/youngman2914/pb08) *
 - [PB09	임홍섭]()
 - [PB10	장지예]()
 - [PB11	정수현](https://github.com/jungsh210/PB11) *
