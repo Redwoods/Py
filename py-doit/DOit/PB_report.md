@@ -14,10 +14,10 @@
 - [PB07	이유림]()
 - [PB08	이태영](http://github.com/youngman2914/pb08) *
 - [PB09	임홍섭]()
-- [PB10	장지예](https://github.com/jangjiye20/pb10) *
+- [PB10	장지예](https://github.com/jangjiye20/pb10) *?
 - [PB11	정수현](https://github.com/jungsh210/PB11) *
 - [PB12	 조현]()
 - [PB13	조현준](https://github.com/karosu12) *
-- [PB14	진한승](https://github.com/imseung2/pb14) *
+- [PB14	진한승](https://github.com/imseung2/pb14) *?
 - [PB15	박성규]()
 ---
