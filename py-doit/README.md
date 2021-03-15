@@ -10,6 +10,9 @@
 ### 교재:  Do it! 점프 투 파이썬
 ---
 ### 주별 과제 평가
+> 2주차 과제 : ch2 폴더에 ch2-note1.ipynb 파일을 올리시오.
+  > ch2/ch2-note1.ipynb   
+  
 - [PA (5,6교시)](https://github.com/Redwoods/Py/blob/master/py-doit/DOit/PA_report.md)
 - [PB (7,8교시)](https://github.com/Redwoods/Py/blob/master/py-doit/DOit/PB_report.md)
 ---
