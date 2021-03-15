@@ -14,7 +14,10 @@
 
 ---
 ## 과제
-- 개인 PC 또는 노트북에 파이썬 설치
+
+> ### 2주차 과제 : ch2 폴더에 ch2-note1.ipynb 파일을 올리시오.
+
+- [기본과제] 개인 PC 또는 노트북에 파이썬 설치
 
   1. anaconda 설치 (Python 3.x) [anaconda download](https://www.anaconda.com/distribution/)
   2. vscode 설치 [vscode download](https://code.visualstudio.com/download)
