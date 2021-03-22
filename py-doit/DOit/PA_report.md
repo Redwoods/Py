@@ -31,7 +31,7 @@
 - [PA23	박희주](https://github.com/suyangegrong/PA23) * *
 - [PA24	설지현]() &
 - [PA25	차동근](https://github.com/chadg0502/PA25) * &
-- [PA26	정민지](https://github.com/26pizza/PA26) * &
+- [PA26	정민지](https://github.com/26pizza/PA26) * *
 - [PA27 김수웅](https://github.com/rlatndnd9804/PA27) * *?
 ---
 
