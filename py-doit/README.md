@@ -16,3 +16,4 @@
 - [PB (7,8교시)](https://github.com/Redwoods/Py/blob/master/py-doit/DOit/PB_report.md)
 ---
 * [examples-and-benefits-of-ai-in-healthcare](https://becominghuman.ai/the-examples-and-benefits-of-ai-in-healthcare-71256107f6b7)
+* [기사: 현재의 코딩-파이썬](https://www.hankookilbo.com/News/Read/A2021032113490004574?dtype=1&dtypecode=031523ee-0278-4a92-9283-09447d88627c&did=NA&prnewsid=A2021032117200002602)
