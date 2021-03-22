@@ -16,7 +16,7 @@
 - [PB09	임홍섭]()
 - [PB10	장지예](https://github.com/jangjiye20/pb10b) * *
 - [PB11	정수현](https://github.com/jungsh210/PB11) * *
-- [PB12	 조현]()
+- [PB12	 조현](https://github.com/gaeuleee/Pb12/) *
 - [PB13	조현준](https://github.com/karosu12/pb13b) * *
 - [PB14	진한승](https://github.com/imseung2/pb14-) * *
 - [PB15	박성규]()
