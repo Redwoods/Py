@@ -10,7 +10,7 @@
 - [PA02	정성엽](https://github.com/yuby7569/pa02a) * *
 - [PA03	김범석](https://github.com/ssgbeom1/pa03) * *
 - [PA04	김재준](https://github.com/wowns969/PA04) * *
-- [PA05	서준용](https://github.com/seojunyong89/PA05A) * &
+- [PA05	서준용](https://github.com/joi0804/PA05A) * &
 - [PA06	석시현](https://github.com/1122axax/pa06) * &
 - [PA07	여창준](http://github.com/dpfpsel0622/pa07) * *
 - [PA08	이승엽](https://github.com/lddor7/PA08) * *
