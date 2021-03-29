@@ -6,7 +6,7 @@
 - '*' : 과제 제출 
 - '&' : 과제 미제출 
 ---
-- [PA01	장명재]() &
+- [PA01	장명재]() &&&
 - [PA02	정성엽](https://github.com/yuby7569/pa02a) * * *
 - [PA03	김범석](https://github.com/ssgbeom1/pa03) * * *
 - [PA04	김재준](https://github.com/wowns969/PA04) * * *
