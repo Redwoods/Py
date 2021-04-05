@@ -7,7 +7,7 @@
 - '&' : 과제 미제출 
 ---
 - [PB01	김동욱](https://github.com/kkdw428/PB01A) * * * *
-- [PB02	김민구](http://github.com/alsrn36533/PB02) * * * &
+- [PB02	김민구](http://github.com/alsrn36533/PB02) * * * &?
 - [PB04	박수현]() &&&&
 - [PB05	원지찬](https://github.com/dnjswlcks67/pb05) * * * *
 - [PB06	이유리](https://github.com/ur020202/pb06) * * * &
