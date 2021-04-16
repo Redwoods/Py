@@ -22,3 +22,6 @@
 ---
 * [examples-and-benefits-of-ai-in-healthcare](https://becominghuman.ai/the-examples-and-benefits-of-ai-in-healthcare-71256107f6b7)
 * [기사: 현재의 코딩-파이썬](https://www.hankookilbo.com/News/Read/A2021032113490004574?dtype=1&dtypecode=031523ee-0278-4a92-9283-09447d88627c&did=NA&prnewsid=A2021032117200002602)
+---
+### Google Colab
+- #### Google Colab: 도구 > 단축키 > 커서에서 분할 : "Ctrl =" 로 설정하시오.
