@@ -10,9 +10,10 @@
 ### 교재:  Do it! 점프 투 파이썬
 ---
 ### 주별 과제 평가
-> ### 5주차 과제 : ch2 폴더에 ch2-note6-set.ipynb, ch2-note7-bool.ipynb, ch2-note8-var.ipynb, ch2-exercises-id.ipynb 파일을 올리시오.
-> > 과제 마감: 4월10일(토요일) 23:55
+> #### 6,7주차 과제 : ch3 폴더에 ch3-code01-id.ipynb, ch3-code02-id.ipynb 파일을 올리시오.
+> > 과제 마감: 4월25일(일요일) 23:55
 
+> #### 5주차 과제 : ch2 폴더에 ch2-note6-set.ipynb, ch2-note7-bool.ipynb, ch2-note8-var.ipynb, ch2-exercises-id.ipynb 파일을 올리시오.
 > #### 4주차 과제 : ch2 폴더에 ch2-note3-list.ipynb, ch2-note4-tuple.ipynb, ch2-note5-dict.ipynb 파일을 올리시오.
 > #### 3주차 과제 : ch2 폴더에 ch2-note2-string.ipynb, ch2-note3-list.ipynb 파일을 올리시오.
 > #### 2주차 과제 : ch2 폴더에 ch2-note1.ipynb 파일을 올리시오.
