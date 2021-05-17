@@ -11,7 +11,7 @@
 ---
 ### 주별 과제 평가
 > ### 11주차 과제 : 구글 Colab에서 만든 ch5-code01-id.ipynb 파일을 github의 ch5 폴더에 올리시오.
-> > > 과제 마감: 5월22일(토요일) 23:55
+> > 과제 마감: 5월22일(토요일) 23:55
 > #### 10주차 과제 : 구글 Colab에서 만든 ch4-code02-id.ipynb, ch4-exercises-id.ipynb 파일을 github의 ch4 폴더에 올리시오.
 > #### 9주차 과제 : 구글 Colab에서 만든 ch4-code01-id.ipynb 파일을 github의 ch4 폴더에 올리시오.
 > ### 6,7주차 과제 : ch3 폴더에 ch3-code01-id.ipynb, ch3-code02-id.ipynb, ch3-exercises-id.ipynb 파일을 올리시오.
