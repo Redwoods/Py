@@ -8,7 +8,7 @@
 ---
 - [PA01	장명재]() &&&&
 - [PA02	정성엽](https://github.com/yuby7569/pa02a) * * * * * * m@ &
-- [PA03	김범석](https://github.com/ssgbeom1/pa03) * * * * @ * m@@ *
+- [PA03	김범석](https://github.com/ssgbeom1/pa03) * * * * @ * m@@ @
 - [PA04	김재준](https://github.com/wowns969/PA04) * * * * @ * m@ @
 - [PA05	서준용](https://github.com/joi0804/PA05A) * & * * * * m@ @
 - [PA06	석시현](https://github.com/1122axax/pa06) * & * & & & m& &
