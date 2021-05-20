@@ -32,7 +32,7 @@
 - [PA24	설지현](https://github.com/kyovy6648/pa24) * * * * * * m* @
 - [PA25	차동근](https://github.com/chadg0502/PA25) * & * * & * m* &
 - [PA26	정민지](https://github.com/26pizza/PA26) * * * * & & m& &
-- [PA27 김수웅](https://github.com/rlatndnd9804/PA27) * * * * @ & m@ &
+- [PA27 김수웅](https://github.com/rlatndnd9804/PA27) * * * * @ & m@ *
 ---
 
 
