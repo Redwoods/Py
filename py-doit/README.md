@@ -11,7 +11,7 @@
 ---
 ### 주별 과제 평가
 > ### 13주차 과제 : 구글 Colab에서 만든 ch5-code01-id.ipynb, ch5-code02-id.ipynb, ch5-exercises-id.ipynb 파일을 github의 ch5 폴더에 올리시오.
-> > 과제 마감: 6월5일(토요일) 23:55, 5장 노트 최종 평가합니다.
+> > 과제 마감: 6월5일(토요일) 23:55, **5장 노트 최종 평가합니다.**
 > ### 12주차 과제 : 구글 Colab에서 만든 ch5-code01-id.ipynb, ch5-code02-id.ipynb 파일을 github의 ch5 폴더에 올리시오.
 > #### 11주차 과제 : 구글 Colab에서 만든 ch5-code01-id.ipynb 파일을 github의 ch5 폴더에 올리시오.
 > #### 10주차 과제 : 구글 Colab에서 만든 ch4-code02-id.ipynb, ch4-exercises-id.ipynb 파일을 github의 ch4 폴더에 올리시오.
