@@ -18,7 +18,7 @@
 - [PA10	이진영](http://github.com/dlwlsdud7/PA10) * * * * * * m@ & *?
 - [PA11	정호상](https://github.com/goaldeer/pa11) * * * & @ * m@@ @ @@@
 - [PA12	조현호](https://github.com/whgusgh59/PA12) * * * * * * m@@ @ @
-- [PA13	최석기](https://github.com/tjrrl0904/PA13) * * * * * * m@@ @ 
+- [PA13	최석기](https://github.com/tjrrl0904/PA13) * * * * * * m@@ @ @@@
 - [PA14	강병호]() &&&&
 - [PA15	한채린]() &&&&
 - [PA16	강지민](https://github.com/rkdwlals37/PA16) * * * * * * m@ @
