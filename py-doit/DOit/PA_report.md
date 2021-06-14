@@ -15,7 +15,7 @@
 - [PA07	여창준](http://github.com/dpfpsel0622/pa07) * * * * * * m@ @ @@
 - [PA08	이승엽](https://github.com/lddor7/PA08) * * * & & & m& & &
 - [PA09	이재희](https://github.com/ANA0517/PA09) * * * * @ * m@@ @ @@@
-- [PA10	이진영](http://github.com/dlwlsdud7/PA10) * * * * * * m@ & *?
+- [PA10	이진영](http://github.com/dlwlsdud7/PA10) * * * * * * m@ * @
 - [PA11	정호상](https://github.com/goaldeer/pa11) * * * & @ * m@@ @ @@@
 - [PA12	조현호](https://github.com/whgusgh59/PA12) * * * * * * m@@ @ @
 - [PA13	최석기](https://github.com/tjrrl0904/PA13) * * * * * * m@@ @ @@@
