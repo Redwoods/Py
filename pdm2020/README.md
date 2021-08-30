@@ -1,4 +1,4 @@
-# 생체신호 마이닝 (2020 2학기)
+# 생체신호 마이닝 (2021 2학기)
 
 ## Physiological Data Mining
 * Physiological data
@@ -12,26 +12,49 @@
   - 데이터 분석 (Analysis)
     * 특징 추출 및 머신러닝
     * 딥러닝
-  - AI 모델 기반 서비스 (Service)
+    * AutoML
+  - AI 모델 기반 WEB 서비스
     * streamlit
     
 ## 수업 도구
 * Google Colab & Google drive
   - GPU powered code editor
   - Web based environment : everytime & everywhere
+  - VSCode (extension: Korean Language Pack, Python)
 * GitHub
   - 수업 노트 관리 및 과제 제출/평가 (평가 단계: #, *, @, @@)
-    * 12월 14일(일) 자정 마감 (기말과제평가 실시)  
+    * 마감 시한: 
     
   - 개인별 repo  
-    * [pdm01: 오가영](https://github.com/o-going/pdm01) * * @ @ @ @ @@ @ @ @ # @@@@
-    * [pdm02: 김경창](https://github.com/rldckd0103/pdm02) * @ * * # @ @ @@ @ @ @ @@
-    * [pdm04: 김채영](https://github.com/kimchaeyoung-student/pdm04) * @@ @ @ @@ @ @@ @@ @@ @@ @@ @@@@
-    * [pdm05: 김현정](https://github.com/dasdasqs2/pdm05) * @ @ @ * @ @ @@ @ @ @@ @@@@@
-    * [pdm06: 김혜린](https://github.com/Kim-Hyerin/pdm06) * @ # @ @ @@ @@ @ @ @@ @@ @@@
-    * [pdm07: 문선영](https://github.com/anstjsdud/pdm07) * @@ @ @ @ @ @ @ @ @ * @@
-    * [pdm08: 박도율](https://github.com/DoyulPark/pdm08) * * @ @ * # * @ @ @ * @@
-    * [pdm09: 손채영](https://github.com/chaeyeongSon/pdm09) * @@ @@ @ @@ @@ @@ @@ @@ @@ @@ @@@@
+    * [pdm01: ]
+    * [pdm02: ]
+    * [pdm03: ]
+    * [pdm04: ]
+    * [pdm05: ]
+    * [pdm06: ]
+    * [pdm07: ]
+    * [pdm08: ]
+    * [pdm09: ]
+    * [pdm10: ]
+    * [pdm11: ]
+    * [pdm12: ]
+    * [pdm13: ]
+    * [pdm14: ]
+    * [pdm15: ]
+    * [pdm16: ]
+    * [pdm17: ]
+    * [pdm18: ]
+    * [pdm19: ]
+    * [pdm20: ]
+    * [pdm21: ]
+    * [pdm22: ]
+    * [pdm23: ]
+    * [pdm24: ]
+    * [pdm25: ]
+    * [pdm26: ]
+    * [pdm27: ]
+    * [pdm28: ]
+    * [pdm29: ]
  ---
  
  ## [도전] 심화 학습 자료
