@@ -47,7 +47,7 @@
     * [pdm19: 이지선]
     * [pdm20: 정재은](https://github.com/joung-jaeeun/pdm20)
     * [pdm21: 지예빈]
-    * [pdm22: 지예빈]
+    * [pdm22: 최정윤]
  ---
  
  ## [도전] 심화 학습 자료
