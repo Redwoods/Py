@@ -39,7 +39,7 @@
     * [pdm11: 김다영](https://github.com/dayeong918/pdm011)
     * [pdm12: 김민규](https://github.com/Skystar728/pdm12)
     * [pdm13: 김범수](https://github.com/bum3632/pdm13)
-    * [pdm14: 김시우](https://github.com/loosiu/pdm140)
+    * [pdm14: 김시우](https://github.com/loosiu/pdm14)
     * [pdm15: 김재익](https://github.com/kim0129s/pdm15)
     * [pdm16: 김호준](https://github.com/hojoooon/PDM16)
     * [pdm17: 박시원](https://github.com/w2j1y12/pdm17)
