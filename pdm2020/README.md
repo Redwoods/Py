@@ -28,7 +28,7 @@
   - 개인별 repo  
     * [pdm01: 김태민](https://github.com/KTM001/PDM01)
     * [pdm02: 송준혁](https://github.com/916jun/pdm02)
-    * [pdm03: 심성우]
+    * [pdm03: 심성우](https://github.com/pdm03/pdm03)
     * [pdm04: 우원재](https://github.com/SALRIGO/pdm04)
     * [pdm05: 윤태영](https://github.com/xodud5654/PDM05)
     * [pdm06: 이희창](https://github.com/Hee0305/PDM06)
