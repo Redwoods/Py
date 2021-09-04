@@ -44,7 +44,7 @@
     * [pdm16: 김호준](https://github.com/hojoooon/PDM16)
     * [pdm17: 박시원](https://github.com/w2j1y12/pdm17)
     * [pdm18: 여채윤]
-    * [pdm19: 이지선]
+    * [pdm19: 이지선](https://github.com/jiseon0516/pdm19)
     * [pdm20: 정재은](https://github.com/joung-jaeeun/pdm20)
     * [pdm21: 지예빈]
     * [pdm22: 최정윤]
