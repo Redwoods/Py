@@ -43,11 +43,11 @@
     * [pdm15: 김재익](https://github.com/kim0129s/pdm15)
     * [pdm16: 김호준](https://github.com/hojoooon/PDM16)
     * [pdm17: 박시원](https://github.com/w2j1y12/pdm17)
-    * [pdm18: 여채윤]
+    * [pdm18: 여채윤](https://github.com/ducodbs0516/pdm18)
     * [pdm19: 이지선](https://github.com/jiseon0516/pdm19)
     * [pdm20: 정재은](https://github.com/joung-jaeeun/pdm20)
     * [pdm21: 지예빈]
-    * [pdm22: 최정윤]
+    * [pdm22: 최정윤](https://github.com/yoon0411/pdm22)
  ---
  
  ## [도전] 심화 학습 자료
