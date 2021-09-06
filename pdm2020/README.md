@@ -2,9 +2,9 @@
 
 ## Physiological Data Mining
 * Physiological data
-  - images & movies
-  - signals
-  - text
+  - images & movies: X-ray, CT, MRI, PET, ...
+  - signals: ECG, EEG, PPG, EMG, ...
+  - text: 문진, SNS, ...
 * Data Mining
   - 데이터 수집 (Acquisition)
   - 데이터 전처리(Preprocessing)
