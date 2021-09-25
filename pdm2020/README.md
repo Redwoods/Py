@@ -27,16 +27,16 @@
     
   - 개인별 repo  
     * [pdm01: 김태민](https://github.com/KTM001/PDM01) *
-    * [pdm02: 송준혁](https://github.com/916jun/pdm02) *
-    * [pdm03: 심성우](https://github.com/pdm03/pdm03) *
-    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) *
-    * [pdm05: 윤태영](https://github.com/xodud5654/PDM05) *
-    * [pdm06: 이희창](https://github.com/Hee0305/PDM06) *
-    * [pdm07: 정강우](https://github.com/junggangwo/pdm07) *
-    * [pdm08: 정석민](https://github.com/seokmin1/PDM08) *
-    * [pdm09: 최현광](https://github.com/choihyungwang/pdm09) *
-    * [pdm10: 김가윤](https://github.com/20193253/pdm10) *
-    * [pdm11: 김다영](https://github.com/dayeong918/pdm011) *
+    * [pdm02: 송준혁](https://github.com/916jun/pdm02) * @
+    * [pdm03: 심성우](https://github.com/pdm03/pdm03) * @
+    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) * @@
+    * [pdm05: 윤태영](https://github.com/xodud5654/PDM05) * @
+    * [pdm06: 이희창](https://github.com/Hee0305/PDM06) * @
+    * [pdm07: 정강우](https://github.com/junggangwo/pdm07) * @
+    * [pdm08: 정석민](https://github.com/seokmin1/PDM08) * @
+    * [pdm09: 최현광](https://github.com/choihyungwang/pdm09) * @@
+    * [pdm10: 김가윤](https://github.com/20193253/pdm10) * *
+    * [pdm11: 김다영](https://github.com/dayeong918/pdm011) * @
     * [pdm12: 김민규](https://github.com/Skystar728/pdm12) *
     * [pdm13: 김범수](https://github.com/bum3632/pdm13) *
     * [pdm14: 김시우](https://github.com/loosiu/pdm14) *
