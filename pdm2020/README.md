@@ -52,7 +52,8 @@
  
  ## [도전] 심화 학습 자료
 
- - [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks)  
+ - [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks) 
+ - [Doit 딥러닝 교과서](http://easyspub.co.kr/20_Menu/BookView/472/PUB) 
  - [Pytorch 딥러닝 입문](https://github.com/Justin-A/DeepLearning101)  
  - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
  ---
