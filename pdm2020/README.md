@@ -57,5 +57,9 @@
  - [Pytorch 딥러닝 입문](https://github.com/Justin-A/DeepLearning101)  
  - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
  ---
+ ## Goooooood Intro to ML & DL
+ - [linear-algebra-for-ML](https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/)
+ ---
+ 
   #### 연구실: E319, email: chaos21c@gmail.com
  
