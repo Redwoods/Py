@@ -1,4 +1,5 @@
 # NLP : 자연어 처리
+> 참고 자료: https://wikidocs.net/book/2155
 
 1. 스팸 메일 분류기
   - RNN(Vanilla RNN)을 이용한 스팸 분류
