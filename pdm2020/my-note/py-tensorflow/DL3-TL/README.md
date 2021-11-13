@@ -2,8 +2,10 @@
 
 ## Transfer learning (imagenet)
 - ImageNet dataset 
-    - 1.4 million labeled images 
-    - 1,000 different classes  
+    - 1,000 different classes
+    - 1,281,167 training images
+    - 50,000 validation images
+    - 100,000 test images
 ### Base models of TL
 tensorflow.keras.applications
 - Xception
