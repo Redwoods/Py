@@ -1,2 +1,2 @@
 # Fully Connected Networks (FCN)
-- Multi Layers Perceptron
+- Multi Layered Perceptrons (MLP)
