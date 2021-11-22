@@ -15,6 +15,6 @@ tensorflow.keras.applications
 - VGG19
 - MobileNet
 
-## tupe of TL
-- Generation of features using the base convnet model
-- Fine tuning
+## type of TL
+- ### Generation of features using the base convnet model
+- ### Fine tuning
