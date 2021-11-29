@@ -26,18 +26,18 @@
     * 마감 시한: 
     
   - 개인별 repo  
-    * [pdm01: 김태민](https://github.com/KTM001/PDM01) * @ @ @ M@@/2 @ @ @
-    * [pdm02: 송준혁](https://github.com/916jun/pdm02) * @ @ @ M@/2 @ @ @
-    * [pdm03: 심성우](https://github.com/pdm03/pdm03) * @ @ @ M@@ @ # @@/2
-    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) * @@ @ @ M@@@/2 @ @ @
-    * [pdm05: 윤태영](https://github.com/xodud5654/PDM05) * @ * @ M@@@/2 @ @ @@/2
-    * [pdm06: 이희창](https://github.com/Hee0305/PDM06) * @ @ @ M@@ @ @ @@/2
-    * [pdm07: 정강우](https://github.com/junggangwo/pdm07) * @ @ * M@@/2 * * @@/2
-    * [pdm08: 정석민](https://github.com/seokmin1/PDM08) * @ @ @ M@@/2 @ @ @@/2
-    * [pdm09: 최현광](https://github.com/choihyungwang/pdm09) * @@ @ @ M@@/2 @ @ @/2
-    * [pdm10: 김가윤](https://github.com/20193253/pdm10) * * @ * M@@/2 @ * * 
-    * [pdm11: 김다영](https://github.com/dayeong918/pdm011) * @ * @ M@@ @ @ *
-    * [pdm12: 김민규](https://github.com/Skystar728/pdm12) * # @ @ M@@@/2 @ @ *
+    * [pdm01: 김태민](https://github.com/KTM001/PDM01) * @ @ @ M@@/2 @ @ @ @
+    * [pdm02: 송준혁](https://github.com/916jun/pdm02) * @ @ @ M@/2 @ @ @ @
+    * [pdm03: 심성우](https://github.com/pdm03/pdm03) * @ @ @ M@@ @ # @@/2 @
+    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) * @@ @ @ M@@@/2 @ @ @ @
+    * [pdm05: 윤태영](https://github.com/xodud5654/PDM05) * @ * @ M@@@/2 @ @ @@/2 @
+    * [pdm06: 이희창](https://github.com/Hee0305/PDM06) * @ @ @ M@@ @ @ @@/2 @
+    * [pdm07: 정강우](https://github.com/junggangwo/pdm07) * @ @ * M@@/2 * * @@/2 *
+    * [pdm08: 정석민](https://github.com/seokmin1/PDM08) * @ @ @ M@@/2 @ @ @@/2 @
+    * [pdm09: 최현광](https://github.com/choihyungwang/pdm09) * @@ @ @ M@@/2 @ @ @/2 @
+    * [pdm10: 김가윤](https://github.com/20193253/pdm10) * * @ * M@@/2 @ * * #
+    * [pdm11: 김다영](https://github.com/dayeong918/pdm011) * @ * @ M@@ @ @ * @
+    * [pdm12: 김민규](https://github.com/Skystar728/pdm12) * # @ @ M@@@/2 @ @ * 
     * [pdm13: 김범수](https://github.com/bum3632/pdm13) * # # @ M@/2 * @ *
     * [pdm14: 김시우](https://github.com/loosiu/pdm14) * # * @ M@@@/2 @@/2 @ @
     * [pdm15: 김재익](https://github.com/kim0129s/pdm15) * # @ * M@@ # # #
