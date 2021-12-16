@@ -26,28 +26,28 @@
     * 마감 시한: 
     
   - 개인별 repo  
-    * [pdm01: 김태민](https://github.com/KTM001/PDM01) * @ @ @ M@@/2 @ @ @ @ @/2
-    * [pdm02: 송준혁](https://github.com/916jun/pdm02) * @ @ @ M@/2 @ @ @ @ @/2
-    * [pdm03: 심성우](https://github.com/pdm03/pdm03) * @ @ @ M@@ @ # @@/2 @ @/2
-    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) * @@ @ @ M@@@/2 @ @ @ @ @/2
-    * [pdm05: 윤태영](https://github.com/xodud5654/PDM05) * @ * @ M@@@/2 @ @ @@/2 @ *
-    * [pdm06: 이희창](https://github.com/Hee0305/PDM06) * @ @ @ M@@ @ @ @@/2 @ @/2
-    * [pdm07: 정강우](https://github.com/junggangwo/pdm07) * @ @ * M@@/2 * * @@/2 * *
-    * [pdm08: 정석민](https://github.com/seokmin1/PDM08) * @ @ @ M@@/2 @ @ @@/2 @ @/2
-    * [pdm09: 최현광](https://github.com/choihyungwang/pdm09) * @@ @ @ M@@/2 @ @ @/2 @ @/2
-    * [pdm10: 김가윤](https://github.com/20193253/pdm10) * * @ * M@@/2 @ * * # #
-    * [pdm11: 김다영](https://github.com/dayeong918/pdm011) * @ * @ M@@ @ @ * @ @
-    * [pdm12: 김민규](https://github.com/Skystar728/pdm12) * # @ @ M@@@/2 @ @ * @ @@/2
-    * [pdm13: 김범수](https://github.com/bum3632/pdm13) * # # @ M@/2 * @ * # * 
-    * [pdm14: 김시우](https://github.com/loosiu/pdm14) * # * @ M@@@/2 @@/2 @ @ @ @/2
-    * [pdm15: 김재익](https://github.com/kim0129s/pdm15) * # @ * M@@ # # # # #
-    * [pdm16: 김호준](https://github.com/hojoooon/PDM16) * # # * M@@@ # * * @ #
-    * [pdm17: 박시원](https://github.com/w2j1y12/pdm17) * @ * @ M@ @@/2 @ @ @ @
-    * [pdm18: 여채윤](https://github.com/ducodbs0516/pdm18) * @@ @@ @ M@@ @@/2 @ @@ @ @@
-    * [pdm19: 이지선](https://github.com/jiseon0516/pdm19) * @@ @ @ M@@@/2 @ @ @@/2 @ @/2
-    * [pdm20: 정재은](https://github.com/joung-jaeeun/pdm20) * # # * M* # @ @/2 @ @
-    * [pdm21: 지예빈](https://github.com/Obliqueflo/PDM21) * @ @ * M@@@/2 * @ @/2 @ @
-    * [pdm22: 최정윤](https://github.com/yoon0411/pdm22) * # # @ M@ * # * * @/2
+    * [pdm01: 김태민](https://github.com/KTM001/PDM01) * @ @ @ M@@/2 @ @ @ @ @/2 P@@/2
+    * [pdm02: 송준혁](https://github.com/916jun/pdm02) * @ @ @ M@/2 @ @ @ @ @/2 P@@/2
+    * [pdm03: 심성우](https://github.com/pdm03/pdm03) * @ @ @ M@@ @ # @@/2 @ @/2 P@/2
+    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) * @@ @ @ M@@@/2 @ @ @ @ @/2 P*
+    * [pdm05: 윤태영](https://github.com/xodud5654/PDM05) * @ * @ M@@@/2 @ @ @@/2 @ * P@@@
+    * [pdm06: 이희창](https://github.com/Hee0305/PDM06) * @ @ @ M@@ @ @ @@/2 @ @/2 P@@@
+    * [pdm07: 정강우](https://github.com/junggangwo/pdm07) * @ @ * M@@/2 * * @@/2 * * P@@/2
+    * [pdm08: 정석민](https://github.com/seokmin1/PDM08) * @ @ @ M@@/2 @ @ @@/2 @ @/2 P@
+    * [pdm09: 최현광](https://github.com/choihyungwang/pdm09) * @@ @ @ M@@/2 @ @ @/2 @ @/2 P@/2
+    * [pdm10: 김가윤](https://github.com/20193253/pdm10) * * @ * M@@/2 @ * * # # P@/2
+    * [pdm11: 김다영](https://github.com/dayeong918/pdm011) * @ * @ M@@ @ @ * @ @ P@
+    * [pdm12: 김민규](https://github.com/Skystar728/pdm12) * # @ @ M@@@/2 @ @ * @ @@/2 P@@
+    * [pdm13: 김범수](https://github.com/bum3632/pdm13) * # # @ M@/2 * @ * # * P@/2
+    * [pdm14: 김시우](https://github.com/loosiu/pdm14) * # * @ M@@@/2 @@/2 @ @ @ @/2 P@@/2
+    * [pdm15: 김재익](https://github.com/kim0129s/pdm15) * # @ * M@@ # # # # # P*
+    * [pdm16: 김호준](https://github.com/hojoooon/PDM16) * # # * M@@@ # * * @ # P@@/2
+    * [pdm17: 박시원](https://github.com/w2j1y12/pdm17) * @ * @ M@ @@/2 @ @ @ @ P@/2
+    * [pdm18: 여채윤](https://github.com/ducodbs0516/pdm18) * @@ @@ @ M@@ @@/2 @ @@ @ @@ P@@@/2
+    * [pdm19: 이지선](https://github.com/jiseon0516/pdm19) * @@ @ @ M@@@/2 @ @ @@/2 @ @/2 P@@@
+    * [pdm20: 정재은](https://github.com/joung-jaeeun/pdm20) * # # * M* # @ @/2 @ @ P@/2
+    * [pdm21: 지예빈](https://github.com/Obliqueflo/PDM21) * @ @ * M@@@/2 * @ @/2 @ @ P@
+    * [pdm22: 최정윤](https://github.com/yoon0411/pdm22) * # # @ M@ * # * * @/2 P@/2
  ---
  
  ## [도전] 심화 학습 자료
