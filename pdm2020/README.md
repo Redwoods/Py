@@ -29,7 +29,7 @@
     * [pdm01: 김태민](https://github.com/KTM001/PDM01) * @ @ @ M@@/2 @ @ @ @ @/2 P@@/2
     * [pdm02: 송준혁](https://github.com/916jun/pdm02) * @ @ @ M@/2 @ @ @ @ @/2 P@@/2
     * [pdm03: 심성우](https://github.com/pdm03/pdm03) * @ @ @ M@@ @ # @@/2 @ @/2 P@/2
-    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) * @@ @ @ M@@@/2 @ @ @ @ @/2 P@
+    * [pdm04: 우원재](https://github.com/SALRIGO/pdm04) * @@ @ @ M@@@/2 @ @ @ @ @/2 P@@/2
     * [pdm05: 윤태영](https://github.com/xodud5654/PDM05) * @ * @ M@@@/2 @ @ @@/2 @ * P@@@
     * [pdm06: 이희창](https://github.com/Hee0305/PDM06) * @ @ @ M@@ @ @ @@/2 @ @/2 P@@@
     * [pdm07: 정강우](https://github.com/junggangwo/pdm07) * @ @ * M@@/2 * * @@/2 * * P@@/2
