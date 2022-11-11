@@ -14,6 +14,7 @@ tensorflow.keras.applications
 - VGG16
 - VGG19
 - MobileNet
+- EfficientNet V1/V2
 
 ## type of TL
 - ### Generation of features using the base convnet model
